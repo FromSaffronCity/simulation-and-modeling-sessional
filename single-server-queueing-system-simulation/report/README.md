@@ -33,8 +33,8 @@ This report is prepared and submitted by Ajmain Yasar Ahmed Sahil **(Student ID:
 | Max                 | 0.999477074978319     |
 | Median              | 0.5143297178826047    |
 
-![fig1](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/master/single-server-queueing-system-simulation/report/res/Figure_1.png?raw=true)
-![fig2](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/master/single-server-queueing-system-simulation/report/res/Figure_2.png?raw=true)
+![fig1](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/main/single-server-queueing-system-simulation/report/res/Figure_1.png?raw=true)
+![fig2](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/main/single-server-queueing-system-simulation/report/res/Figure_2.png?raw=true)
 
 ### Exponential random variates with mean_inter_arrival_time (1000 generated)  
 | Performance Measure | Value                 |
@@ -43,8 +43,8 @@ This report is prepared and submitted by Ajmain Yasar Ahmed Sahil **(Student ID:
 | Max                 | 6.271790637423871     |
 | Median              | 0.6409373452822282    |
 
-![fig3](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/master/single-server-queueing-system-simulation/report/res/Figure_3.png?raw=true)
-![fig4](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/master/single-server-queueing-system-simulation/report/res/Figure_4.png?raw=true)
+![fig3](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/main/single-server-queueing-system-simulation/report/res/Figure_3.png?raw=true)
+![fig4](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/main/single-server-queueing-system-simulation/report/res/Figure_4.png?raw=true)
 
 ### Exponential random variates with mean_service_time (1000 generated)  
 | Performance Measure | Value                 |
@@ -53,5 +53,5 @@ This report is prepared and submitted by Ajmain Yasar Ahmed Sahil **(Student ID:
 | Max                 | 3.9305151197357175    |
 | Median              | 0.3452815575074324    |
 
-![fig5](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/master/single-server-queueing-system-simulation/report/res/Figure_5.png?raw=true)
-![fig6](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/master/single-server-queueing-system-simulation/report/res/Figure_6.png?raw=true)
+![fig5](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/main/single-server-queueing-system-simulation/report/res/Figure_5.png?raw=true)
+![fig6](https://github.com/FromSaffronCity/simulation-and-modeling-sessional/blob/main/single-server-queueing-system-simulation/report/res/Figure_6.png?raw=true)
